@@ -1,2 +1,3 @@
 # Spider-screen
-MLclick -kill spider
+MLclick - kill spider
+MRclick - score
